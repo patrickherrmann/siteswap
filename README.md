@@ -1,4 +1,5 @@
-*** Siteswap Generator ***
+Siteswap Generator
+==================
 
 My first python script-- a ground state siteswap generator.
 
